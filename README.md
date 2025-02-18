@@ -1,3 +1,10 @@
+Grupo:
+- Midgard Amador
+- Victor Maradiaga
+- Claudia Ramos
+- María Granado
+- Carlos Martínez
+
 Instrucciones de instalación:
 
 1. Crear la base de datos en MySQL:
