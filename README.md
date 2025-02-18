@@ -32,8 +32,8 @@ COMMIT;
 3. Instalar Angular 18.2.3: npm install -g @angular/cli@18.2.3
 
 4. Abrir proyecto en VS Code:
-   4.1. En el módulo candidate_service, ejecutar: npm install
-   4.2. En el módulo candidate_web, ejecutar: npm install
+   4.1. En el módulo candidate_service ejecutar: npm install
+   4.2. En el módulo candidate_web ejecutar: npm install
 
 5. Correr el backend (candidate-service): npm start
 6. Correr el frontend (candidate_web): ng serve -o
