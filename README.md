@@ -28,8 +28,8 @@ COMMIT;
 ```
 
 
-2. Instalar NodeJS 20.11.1
-3. Instalar Angular 18.2.3
+2. [Instalar NodeJS 20.11.1](https://nodejs.org/es/blog/release/v20.11.1)
+3. Instalar Angular 18.2.3: npm install -g @angular/cli@18.2.3
 
 4. Abrir proyecto en VS Code:
    4.1. En el módulo candidate_service, ejecutar: npm install
