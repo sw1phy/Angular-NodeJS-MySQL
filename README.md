@@ -35,6 +35,6 @@ COMMIT;
    4.1. En el módulo candidate_service, ejecutar: npm install
    4.2. En el módulo candidate_web, ejecutar: npm install
 
-5. Correr el backend: npm start
-6. Correr el frontend: ng serve -o
+5. Correr el backend (candidate-service): npm start
+6. Correr el frontend (candidate_web): ng serve -o
 7. Abrir enlace de frontend en: http://localhost:4200/candidates/home
